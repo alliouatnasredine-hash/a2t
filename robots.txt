@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a2t-electricite-rennes.fr/sitemap.xml
